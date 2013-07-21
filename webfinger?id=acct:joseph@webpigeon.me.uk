@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'>
+<XRD xmlns='http://docs.oasis-open.org/ns/xri/xrd-1.0'>
+
+  <Alias>http://webpigeon.me.uk/users/joseph</Alias>
+
+  <Link rel='http://microformats.org/profile/hcard'
+        href='http://webpigeon.me.uk/users/joseph' />
+  <!-- Include additional Link elements here. --> 
+</XRD>
